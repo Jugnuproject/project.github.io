@@ -1,0 +1,7 @@
+*{
+    background-color: beige ;
+}
+h3::first-letter{
+    color: brown;
+    font-size: 40px;
+}
